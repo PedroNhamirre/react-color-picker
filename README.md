@@ -36,6 +36,10 @@ npm run dev
 
 Open your web browser and navigate to ``http://localhost:5000`` (or whatever port your console says the app is running on). You should see the app running.
 
+### Usage
+
+you can copy the selected color by clicking in the card.😊
+
 ## Contributing to Color Picker App
 
 To contribute to Color Picker App, follow these steps:
