@@ -1,0 +1,53 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container .title {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.container .card{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: center;
+  padding: 2rem 1rem;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  margin: 2rem;
+}
+
+.color-select{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+ .container .card {
+    border: 2px solid #213547;
+  }
+}
