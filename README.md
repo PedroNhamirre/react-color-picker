@@ -56,5 +56,5 @@ Contact
 If you want to contact me, you can reach me at <pedrooliv62@gmail.com>.
 
 License
-This project uses the following license: **MIT**.
+This project uses the following license: [MIT license](http://opensource.org/licenses/MIT).
 
