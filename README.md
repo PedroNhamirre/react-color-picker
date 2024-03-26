@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install Color Picker App, follow these steps:
 
-In your terminal
+In your terminal paste the commands below
 
 ```
 # Clone the repository
@@ -29,6 +29,8 @@ npm install
 ## Using Color Picker App
 
 To use Color Picker App, follow these steps:
+
+Inside your project folder open the terminal and paste
 
 ```
 # Start the development server
