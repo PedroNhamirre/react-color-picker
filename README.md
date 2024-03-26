@@ -15,7 +15,7 @@ To install Color Picker App, follow these steps:
 
 ```
 # Clone the repository
-git clone https://github.com/PedroNhamirre/color-picker.git
+git clone https://github.com/PedroNhamirre/react-color-picker.git
 
 # Navigate into the directory
 cd color-picker-app
