@@ -1,7 +1,7 @@
 
 # Color Picker App (React + Vite)
 
-This is a simple color picker app built with Vite.
+This is a simple color picker app built with Vite. I used it as learning project
 
 ## Prerequisites
 
