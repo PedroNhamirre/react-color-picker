@@ -56,9 +56,6 @@ To contribute to Color Picker App, follow these steps:
 
 Alternatively, see the GitHub documentation on creating a pull request.
 
-Contact
-If you want to contact me, you can reach me at <pedrooliv62@gmail.com>.
-
 License
 This project uses the following license: [MIT license](http://opensource.org/licenses/MIT).
 
